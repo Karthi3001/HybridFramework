@@ -1,0 +1,12 @@
+2022-01-15 10:46:55,579  INFO [main] carSavaari:14 - URL Opened
+2022-01-15 10:46:57,327  INFO [main] carSavaari:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-15 10:46:58,766  INFO [main] carSavaari:14 - button is clicked in page button
+2022-01-15 10:46:59,658  INFO [main] carSavaari:14 - name is clicked in page id
+2022-01-15 10:47:00,584  INFO [main] carSavaari:14 - name is send in page id
+2022-01-15 10:47:01,709  INFO [main] carSavaari:14 - pass is clicked in page pwd
+2022-01-15 10:47:02,389  INFO [main] carSavaari:14 - pass is send in page pwd
+2022-01-15 10:47:03,281  INFO [main] carSavaari:14 - click is clicked in page login
+2022-01-15 10:47:04,042  INFO [main] carSavaari:14 - Successfully logged in
+2022-01-15 10:47:05,078  INFO [main] carSavaari:14 - playstore is clicked in page playstore
+2022-01-15 10:47:10,931  INFO [main] carSavaari:14 - playsrore detail shown 
+2022-01-15 10:47:11,773  INFO [main] carSavaari:14 - home page is clicked in page home page

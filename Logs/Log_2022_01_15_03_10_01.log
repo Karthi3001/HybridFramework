@@ -1,0 +1,23 @@
+2022-01-15 10:03:13,691  INFO [main] carSavaari:14 - URL Opened
+2022-01-15 10:03:15,417  INFO [main] carSavaari:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-15 10:03:17,028  INFO [main] carSavaari:14 - button is clicked in page button
+2022-01-15 10:03:17,827  INFO [main] carSavaari:14 - name is clicked in page id
+2022-01-15 10:03:18,642  INFO [main] carSavaari:14 - name is send in page id
+2022-01-15 10:03:19,383  INFO [main] carSavaari:14 - pass is clicked in page pwd
+2022-01-15 10:03:19,935  INFO [main] carSavaari:14 - pass is send in page pwd
+2022-01-15 10:03:20,792  INFO [main] carSavaari:14 - click is clicked in page login
+2022-01-15 10:03:21,527  INFO [main] carSavaari:14 - Successfully logged in
+2022-01-15 10:03:22,581  INFO [main] carSavaari:14 - from place is clicked in page from
+2022-01-15 10:03:23,448  INFO [main] carSavaari:14 - place is send in page from
+2022-01-15 10:03:24,369  INFO [main] carSavaari:14 - place is clicked in page to
+2022-01-15 10:03:25,237  INFO [main] carSavaari:14 - place is send in page to
+2022-01-15 10:03:25,922 ERROR [main] carSavaari:21 - place is not able clicked in page to
+2022-01-15 10:03:29,028  INFO [main] carSavaari:14 - round is clicked in page round
+2022-01-15 10:03:30,041  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-15 10:03:33,070  INFO [main] carSavaari:14 - select car is clicked in page select
+2022-01-15 10:03:34,204  INFO [main] carSavaari:14 - local is clicked in page local
+2022-01-15 10:03:35,484  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-15 10:03:37,782 ERROR [main] carSavaari:21 - time is not able clicked in page time
+2022-01-15 10:03:38,206 ERROR [main] carSavaari:21 - airport is not able clicked in page airport
+2022-01-15 10:03:38,852  INFO [main] carSavaari:14 - playstore is clicked in page playstore
+2022-01-15 10:03:43,401 ERROR [main] carSavaari:21 - car rental is not able clicked in page rental

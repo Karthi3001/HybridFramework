@@ -1,0 +1,8 @@
+2022-01-14 16:45:57,283  INFO [main] carSavaari:14 - URL Opened
+2022-01-14 16:45:58,855  INFO [main] carSavaari:14 - button is clicked in page button
+2022-01-14 16:45:59,830  INFO [main] carSavaari:14 - name is clicked in page id
+2022-01-14 16:46:00,724  INFO [main] carSavaari:14 - name is send in page id
+2022-01-14 16:46:01,513  INFO [main] carSavaari:14 - pass is clicked in page pwd
+2022-01-14 16:46:02,211  INFO [main] carSavaari:14 - pass is send in page pwd
+2022-01-14 16:46:03,023  INFO [main] carSavaari:14 - click is clicked in page login
+2022-01-14 16:46:03,746  INFO [main] carSavaari:14 - Successfully logged in

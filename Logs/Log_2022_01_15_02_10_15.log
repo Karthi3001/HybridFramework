@@ -1,0 +1,17 @@
+2022-01-15 10:02:25,299  INFO [main] carSavaari:14 - URL Opened
+2022-01-15 10:02:26,403 ERROR [main] carSavaari:21 - Page not opened with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-15 10:02:27,305  INFO [main] carSavaari:14 - button is clicked in page button
+2022-01-15 10:02:27,895  INFO [main] carSavaari:14 - name is clicked in page id
+2022-01-15 10:02:28,347  INFO [main] carSavaari:14 - name is send in page id
+2022-01-15 10:02:28,872  INFO [main] carSavaari:14 - pass is clicked in page pwd
+2022-01-15 10:02:29,209  INFO [main] carSavaari:14 - pass is send in page pwd
+2022-01-15 10:02:29,802  INFO [main] carSavaari:14 - click is clicked in page login
+2022-01-15 10:02:30,337  INFO [main] carSavaari:14 - Successfully logged in
+2022-01-15 10:02:30,694 ERROR [main] carSavaari:21 - from place is not able clicked in page from
+2022-01-15 10:02:33,010 ERROR [main] carSavaari:21 - round is not able clicked in page round
+2022-01-15 10:02:33,333 ERROR [main] carSavaari:21 - local is not able clicked in page local
+2022-01-15 10:02:33,668 ERROR [main] carSavaari:21 - airport is not able clicked in page airport
+2022-01-15 10:02:34,381  INFO [main] carSavaari:14 - playstore is clicked in page playstore
+2022-01-15 10:02:39,858  INFO [main] carSavaari:14 - playsrore detail shown 
+2022-01-15 10:02:40,710  INFO [main] carSavaari:14 - home page is clicked in page home page
+2022-01-15 10:02:41,047 ERROR [main] carSavaari:21 - car rental is not able clicked in page rental

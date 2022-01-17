@@ -1,0 +1,55 @@
+2022-01-16 17:28:54,414  INFO [main] carSavaari:14 - URL Opened
+2022-01-16 17:28:55,857  INFO [main] carSavaari:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-16 17:28:57,087  INFO [main] carSavaari:14 - button is clicked in page button
+2022-01-16 17:28:57,848  INFO [main] carSavaari:14 - name is clicked in page id
+2022-01-16 17:28:58,658  INFO [main] carSavaari:14 - name is send in page id
+2022-01-16 17:28:59,473  INFO [main] carSavaari:14 - pass is clicked in page pwd
+2022-01-16 17:29:00,096  INFO [main] carSavaari:14 - pass is send in page pwd
+2022-01-16 17:29:00,930  INFO [main] carSavaari:14 - click is clicked in page login
+2022-01-16 17:29:01,715  INFO [main] carSavaari:14 - Successfully logged in
+2022-01-16 17:29:02,828  INFO [main] carSavaari:14 - playstore is clicked in page playstore
+2022-01-16 17:29:08,449  INFO [main] carSavaari:14 - playsrore detail shown 
+2022-01-16 17:29:09,222  INFO [main] carSavaari:14 - home page is clicked in page home page
+2022-01-16 17:29:10,299  INFO [main] carSavaari:14 - from place is clicked in page from
+2022-01-16 17:29:11,058  INFO [main] carSavaari:14 - place is send in page from
+2022-01-16 17:29:11,993  INFO [main] carSavaari:14 - place is clicked in page to
+2022-01-16 17:29:12,792  INFO [main] carSavaari:14 - place is send in page to
+2022-01-16 17:29:13,694  INFO [main] carSavaari:14 - place is clicked in page to
+2022-01-16 17:29:14,822  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-16 17:29:15,130  INFO [main] carSavaari:14 - Successfully verified
+2022-01-16 17:29:16,189  INFO [main] carSavaari:14 - home page is clicked in page home page
+2022-01-16 17:29:19,104  INFO [main] carSavaari:14 - airport is clicked in page airport
+2022-01-16 17:29:20,385  INFO [main] carSavaari:14 - dropaddress is clicked in page address
+2022-01-16 17:29:21,139  INFO [main] carSavaari:14 - dropaddress is send in page address
+2022-01-16 17:29:22,290  INFO [main] carSavaari:14 - dropaddress is clicked in page address
+2022-01-16 17:29:23,282  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-16 17:29:26,208  INFO [main] carSavaari:14 - select car is clicked in page select
+2022-01-16 17:29:26,840  INFO [main] carSavaari:14 - booking detail shown 
+2022-01-16 17:29:27,804  INFO [main] carSavaari:14 - home page is clicked in page home page
+2022-01-16 17:29:30,918  INFO [main] carSavaari:14 - outstation is clicked is clicked in page outstation is clicked
+2022-01-16 17:29:31,818  INFO [main] carSavaari:14 - round is clicked in page round
+2022-01-16 17:29:32,849  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-16 17:29:35,766  INFO [main] carSavaari:14 - select car is clicked in page select
+2022-01-16 17:29:36,518  INFO [main] carSavaari:14 - booking detail shown 
+2022-01-16 17:29:37,270  INFO [main] carSavaari:14 - home page is clicked in page home page
+2022-01-16 17:29:38,311  INFO [main] carSavaari:14 - local is clicked in page local
+2022-01-16 17:29:39,276  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-16 17:29:42,057  INFO [main] carSavaari:14 - select car is clicked in page select
+2022-01-16 17:29:42,676  INFO [main] carSavaari:14 - booking detail shown 
+2022-01-16 17:29:43,446  INFO [main] carSavaari:14 - home page is clicked in page home page
+2022-01-16 17:29:44,588  INFO [main] carSavaari:14 - car rental is clicked in page rental
+2022-01-16 17:29:47,449  INFO [main] carSavaari:14 - name is clicked in page name
+2022-01-16 17:29:48,398  INFO [main] carSavaari:14 - name is send in page name
+2022-01-16 17:29:49,502  INFO [main] carSavaari:14 - company name is clicked in page compname
+2022-01-16 17:29:50,402  INFO [main] carSavaari:14 - company name is send in page compname
+2022-01-16 17:29:51,513  INFO [main] carSavaari:14 - email is clicked in page email
+2022-01-16 17:29:52,496  INFO [main] carSavaari:14 - email is send in page email
+2022-01-16 17:29:53,613  INFO [main] carSavaari:14 - phone no is clicked in page phoneno
+2022-01-16 17:29:54,528  INFO [main] carSavaari:14 - phone no is send in page phoneno
+2022-01-16 17:29:57,768  INFO [main] carSavaari:14 - submit is clicked in page submit
+2022-01-16 17:30:01,795  INFO [main] carSavaari:14 - result detail shown 
+2022-01-16 17:30:02,925  INFO [main] carSavaari:14 - home page is clicked in page home page
+2022-01-16 17:30:03,573  INFO [main] carSavaari:14 - clickbutton is clicked in page clickbutton
+2022-01-16 17:30:04,282  INFO [main] carSavaari:14 - done is clicked in page done
+2022-01-16 17:30:05,119  INFO [main] carSavaari:14 - insta is clicked is clicked in page insta is clicked
+2022-01-16 17:30:11,319  INFO [main] carSavaari:14 - result detail shown 

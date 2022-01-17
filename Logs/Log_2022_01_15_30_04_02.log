@@ -1,0 +1,39 @@
+2022-01-15 16:30:16,280  INFO [main] carSavaari:14 - URL Opened
+2022-01-15 16:30:17,975  INFO [main] carSavaari:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-15 16:30:19,188  INFO [main] carSavaari:14 - button is clicked in page button
+2022-01-15 16:30:20,159  INFO [main] carSavaari:14 - name is clicked in page id
+2022-01-15 16:30:20,963  INFO [main] carSavaari:14 - name is send in page id
+2022-01-15 16:30:21,696  INFO [main] carSavaari:14 - pass is clicked in page pwd
+2022-01-15 16:30:22,306  INFO [main] carSavaari:14 - pass is send in page pwd
+2022-01-15 16:30:23,081  INFO [main] carSavaari:14 - click is clicked in page login
+2022-01-15 16:30:23,817  INFO [main] carSavaari:14 - Successfully logged in
+2022-01-15 16:30:24,907  INFO [main] carSavaari:14 - playstore is clicked in page playstore
+2022-01-15 16:30:30,004  INFO [main] carSavaari:14 - playsrore detail shown 
+2022-01-15 16:30:30,842  INFO [main] carSavaari:14 - home page is clicked in page home page
+2022-01-15 16:30:31,871  INFO [main] carSavaari:14 - from place is clicked in page from
+2022-01-15 16:30:32,675  INFO [main] carSavaari:14 - place is send in page from
+2022-01-15 16:30:33,737  INFO [main] carSavaari:14 - place is clicked in page to
+2022-01-15 16:30:34,594  INFO [main] carSavaari:14 - place is send in page to
+2022-01-15 16:30:35,514  INFO [main] carSavaari:14 - place is clicked in page to
+2022-01-15 16:30:36,746  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-15 16:30:37,515  INFO [main] carSavaari:14 - Successfully verified
+2022-01-15 16:30:38,315  INFO [main] carSavaari:14 - home page is clicked in page home page
+2022-01-15 16:30:41,156  INFO [main] carSavaari:14 - airport is clicked in page airport
+2022-01-15 16:30:42,329  INFO [main] carSavaari:14 - dropaddress is clicked in page address
+2022-01-15 16:30:43,086  INFO [main] carSavaari:14 - dropaddress is send in page address
+2022-01-15 16:30:44,242  INFO [main] carSavaari:14 - dropaddress is clicked in page address
+2022-01-15 16:30:45,400  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-15 16:30:48,471  INFO [main] carSavaari:14 - select car is clicked in page select
+2022-01-15 16:30:49,159  INFO [main] carSavaari:14 - booking detail shown 
+2022-01-15 16:30:49,900  INFO [main] carSavaari:14 - home page is clicked in page home page
+2022-01-15 16:30:53,086  INFO [main] carSavaari:14 - outstation is clicked is clicked in page outstation is clicked
+2022-01-15 16:30:54,154  INFO [main] carSavaari:14 - round is clicked in page round
+2022-01-15 16:30:55,279  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-15 16:30:58,099  INFO [main] carSavaari:14 - select car is clicked in page select
+2022-01-15 16:30:58,722  INFO [main] carSavaari:14 - booking detail shown 
+2022-01-15 16:30:59,431  INFO [main] carSavaari:14 - home page is clicked in page home page
+2022-01-15 16:31:00,395  INFO [main] carSavaari:14 - local is clicked in page local
+2022-01-15 16:31:01,408  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-15 16:31:03,681 ERROR [main] carSavaari:21 - select car is not able clicked in page select
+2022-01-15 16:31:04,064 ERROR [main] carSavaari:21 - car rental is not able clicked in page rental
+2022-01-15 16:31:04,359 ERROR [main] carSavaari:21 - local is not able clicked in page local

@@ -1,0 +1,55 @@
+2022-01-17 16:48:17,990  INFO [main] MainRunner:14 - URL Opened
+2022-01-17 16:48:19,258  INFO [main] MainRunner:14 - Title displayed Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-17 16:48:20,329  INFO [main] MainRunner:14 - button is clicked in page button
+2022-01-17 16:48:21,122  INFO [main] MainRunner:14 - Id box is clicked is clicked in page id
+2022-01-17 16:48:21,780  INFO [main] MainRunner:14 - Id got entered is send in page id
+2022-01-17 16:48:22,684  INFO [main] MainRunner:14 - password box is clicked is clicked in page pwd
+2022-01-17 16:48:23,241  INFO [main] MainRunner:14 - password  got entered is send in page pwd
+2022-01-17 16:48:23,978  INFO [main] MainRunner:14 - clicked the login button is clicked in page login
+2022-01-17 16:48:24,723  INFO [main] MainRunner:14 - logged in
+2022-01-17 16:48:25,766  INFO [main] MainRunner:14 - playstore is clicked in page playstore
+2022-01-17 16:48:31,356  INFO [main] MainRunner:14 - went to download page
+2022-01-17 16:48:32,135  INFO [main] MainRunner:14 - back to homepage is clicked in page home page
+2022-01-17 16:48:33,215  INFO [main] MainRunner:14 - from is clicked in page from
+2022-01-17 16:48:33,910  INFO [main] MainRunner:14 - select city from is send in page from
+2022-01-17 16:48:34,825  INFO [main] MainRunner:14 - to is clicked in page to
+2022-01-17 16:48:35,621  INFO [main] MainRunner:14 - select city to is send in page to
+2022-01-17 16:48:36,533  INFO [main] MainRunner:14 - place is clicked in page to
+2022-01-17 16:48:37,636  INFO [main] MainRunner:14 - selected is clicked in page select
+2022-01-17 16:48:38,092  INFO [main] MainRunner:14 - verified
+2022-01-17 16:48:39,249  INFO [main] MainRunner:14 - home page is clicked in page home page
+2022-01-17 16:48:42,056  INFO [main] MainRunner:14 - airport is clicked in page airport
+2022-01-17 16:48:43,285  INFO [main] MainRunner:14 - select city box is clicked in page address
+2022-01-17 16:48:44,023  INFO [main] MainRunner:14 - city selected is send in page address
+2022-01-17 16:48:45,262  INFO [main] MainRunner:14 - select pickup address is clicked in page address
+2022-01-17 16:48:46,301  INFO [main] MainRunner:14 - selected is clicked in page select
+2022-01-17 16:48:49,394  INFO [main] MainRunner:14 - select car is clicked in page select
+2022-01-17 16:48:50,643  INFO [main] MainRunner:14 - booking detail displayed 
+2022-01-17 16:48:51,312  INFO [main] MainRunner:14 - home page is clicked in page home page
+2022-01-17 16:48:54,355  INFO [main] MainRunner:14 - outstation is clicked is clicked in page outstation is clicked
+2022-01-17 16:48:55,282  INFO [main] MainRunner:14 - round is clicked in page round
+2022-01-17 16:48:56,297  INFO [main] MainRunner:14 - selected is clicked in page select
+2022-01-17 16:48:59,137  INFO [main] MainRunner:14 - select car is clicked in page select
+2022-01-17 16:48:59,781  INFO [main] MainRunner:14 - booking detail shown 
+2022-01-17 16:49:00,452  INFO [main] MainRunner:14 - home page is clicked in page home page
+2022-01-17 16:49:01,461  INFO [main] MainRunner:14 - local is clicked in page local
+2022-01-17 16:49:02,416  INFO [main] MainRunner:14 - selected is clicked in page select
+2022-01-17 16:49:05,638  INFO [main] MainRunner:14 - select car is clicked in page select
+2022-01-17 16:49:05,927  INFO [main] MainRunner:14 - booking detail displayed 
+2022-01-17 16:49:06,556  INFO [main] MainRunner:14 - home page is clicked in page home page
+2022-01-17 16:49:07,598  INFO [main] MainRunner:14 - car rental is clicked in page rental
+2022-01-17 16:49:10,394  INFO [main] MainRunner:14 - clicked the name is clicked in page name
+2022-01-17 16:49:11,484  INFO [main] MainRunner:14 - entered name is send in page name
+2022-01-17 16:49:12,695  INFO [main] MainRunner:14 - clicked company name is clicked in page compname
+2022-01-17 16:49:13,584  INFO [main] MainRunner:14 - entered company name is send in page compname
+2022-01-17 16:49:14,688  INFO [main] MainRunner:14 - clicked email is clicked in page email
+2022-01-17 16:49:15,708  INFO [main] MainRunner:14 - entered email is send in page email
+2022-01-17 16:49:16,786  INFO [main] MainRunner:14 - clicked phone no is clicked in page phoneno
+2022-01-17 16:49:17,809  INFO [main] MainRunner:14 - entered phone no is send in page phoneno
+2022-01-17 16:49:21,038  INFO [main] MainRunner:14 - cilcked submit is clicked in page submit
+2022-01-17 16:49:25,018  INFO [main] MainRunner:14 - result detail shown 
+2022-01-17 16:49:26,215  INFO [main] MainRunner:14 - home page is clicked in page home page
+2022-01-17 16:49:26,830  INFO [main] MainRunner:14 - clickbutton is clicked in page clickbutton
+2022-01-17 16:49:27,428  INFO [main] MainRunner:14 - done is clicked in page done
+2022-01-17 16:49:28,143  INFO [main] MainRunner:14 - insta is clicked is clicked in page insta is clicked
+2022-01-17 16:49:34,448  INFO [main] MainRunner:14 - page displayed

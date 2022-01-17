@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T16:48:08 IST" name="Default suite" finished-at="2022-01-17T16:49:36 IST" duration-ms="88668">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T16:48:08 IST" name="Default test" finished-at="2022-01-17T16:49:36 IST" duration-ms="88668">
+      <class name="com.mindtree.runner.MainRunner">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.mindtree.runner.MainRunner@42f33b5d]" started-at="2022-01-17T16:48:08 IST" name="initializeDriver" finished-at="2022-01-17T16:48:19 IST" duration-ms="10803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="validateTitle(java.lang.String)[pri:1, instance:com.mindtree.runner.MainRunner@42f33b5d]" started-at="2022-01-17T16:48:19 IST" name="validateTitle" data-provider="getTitle" finished-at="2022-01-17T16:48:19 IST" duration-ms="730" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method signature="signin(java.lang.String, java.lang.String)[pri:2, instance:com.mindtree.runner.MainRunner@42f33b5d]" started-at="2022-01-17T16:48:19 IST" name="signin" data-provider="signin" finished-at="2022-01-17T16:48:25 IST" duration-ms="5416" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[karthik.prabha3007@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Karthi30$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method signature="app()[pri:3, instance:com.mindtree.runner.MainRunner@42f33b5d]" started-at="2022-01-17T16:48:25 IST" name="app" finished-at="2022-01-17T16:48:32 IST" duration-ms="7487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- app -->
+        <test-method signature="outStation(java.lang.String, java.lang.String)[pri:4, instance:com.mindtree.runner.MainRunner@42f33b5d]" started-at="2022-01-17T16:48:32 IST" name="outStation" data-provider="getData1" finished-at="2022-01-17T16:48:41 IST" duration-ms="8759" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hosur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chennai Central, Chennai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- outStation -->
+        <test-method signature="Airport(java.lang.String)[pri:5, instance:com.mindtree.runner.MainRunner@42f33b5d]" started-at="2022-01-17T16:48:41 IST" name="Airport" data-provider="getData2" finished-at="2022-01-17T16:48:51 IST" duration-ms="10307" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bus stand]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Airport -->
+        <test-method signature="trip()[pri:6, instance:com.mindtree.runner.MainRunner@42f33b5d]" started-at="2022-01-17T16:48:51 IST" name="trip" finished-at="2022-01-17T16:49:01 IST" duration-ms="9124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- trip -->
+        <test-method signature="Local()[pri:7, instance:com.mindtree.runner.MainRunner@42f33b5d]" started-at="2022-01-17T16:49:01 IST" name="Local" finished-at="2022-01-17T16:49:07 IST" duration-ms="6106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Local -->
+        <test-method signature="CarRental(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:8, instance:com.mindtree.runner.MainRunner@42f33b5d]" started-at="2022-01-17T16:49:07 IST" name="CarRental" data-provider="getData3" finished-at="2022-01-17T16:49:26 IST" duration-ms="19278" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Karthik]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mindtree]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[karthik.prabha3007@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9.361233511E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarRental -->
+        <test-method signature="signOuts()[pri:9, instance:com.mindtree.runner.MainRunner@42f33b5d]" started-at="2022-01-17T16:49:26 IST" name="signOuts" finished-at="2022-01-17T16:49:27 IST" duration-ms="1244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOuts -->
+        <test-method signature="instgram()[pri:10, instance:com.mindtree.runner.MainRunner@42f33b5d]" started-at="2022-01-17T16:49:27 IST" name="instgram" finished-at="2022-01-17T16:49:34 IST" duration-ms="7132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instgram -->
+        <test-method is-config="true" signature="closeInstance()[pri:0, instance:com.mindtree.runner.MainRunner@42f33b5d]" started-at="2022-01-17T16:49:34 IST" name="closeInstance" finished-at="2022-01-17T16:49:36 IST" duration-ms="2129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeInstance -->
+      </class> <!-- com.mindtree.runner.MainRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,28 @@
+2022-01-16 10:55:33,599  INFO [main] carSavaari:14 - URL Opened
+2022-01-16 10:55:35,490  INFO [main] carSavaari:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-16 10:55:37,342  INFO [main] carSavaari:14 - button is clicked in page button
+2022-01-16 10:55:38,225  INFO [main] carSavaari:14 - name is clicked in page id
+2022-01-16 10:55:39,223  INFO [main] carSavaari:14 - name is send in page id
+2022-01-16 10:55:40,041  INFO [main] carSavaari:14 - pass is clicked in page pwd
+2022-01-16 10:55:40,774  INFO [main] carSavaari:14 - pass is send in page pwd
+2022-01-16 10:55:41,753  INFO [main] carSavaari:14 - click is clicked in page login
+2022-01-16 10:55:42,789  INFO [main] carSavaari:14 - Successfully logged in
+2022-01-16 10:55:43,948  INFO [main] carSavaari:14 - playstore is clicked in page playstore
+2022-01-16 10:55:49,844  INFO [main] carSavaari:14 - playsrore detail shown 
+2022-01-16 10:55:50,666  INFO [main] carSavaari:14 - home page is clicked in page home page
+2022-01-16 10:55:51,942  INFO [main] carSavaari:14 - from place is clicked in page from
+2022-01-16 10:55:52,560  INFO [main] carSavaari:14 - place is send in page from
+2022-01-16 10:55:53,511  INFO [main] carSavaari:14 - place is clicked in page to
+2022-01-16 10:55:54,333  INFO [main] carSavaari:14 - place is send in page to
+2022-01-16 10:55:55,239  INFO [main] carSavaari:14 - place is clicked in page to
+2022-01-16 10:55:57,721  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-16 10:55:58,013  INFO [main] carSavaari:14 - Successfully verified
+2022-01-16 10:55:58,566  INFO [main] carSavaari:14 - home page is clicked in page home page
+2022-01-16 10:56:02,734 ERROR [main] carSavaari:21 - airport is not able clicked in page airport
+2022-01-16 10:56:07,087 ERROR [main] carSavaari:21 - outstation is clicked is not able clicked in page outstation is clicked
+2022-01-16 10:56:08,095 ERROR [main] carSavaari:21 - local is not able clicked in page local
+2022-01-16 10:56:08,573 ERROR [main] carSavaari:21 - car rental is not able clicked in page rental
+2022-01-16 10:56:09,319  INFO [main] carSavaari:14 - clickbutton is clicked in page clickbutton
+2022-01-16 10:56:10,573  INFO [main] carSavaari:14 - done is clicked in page done
+2022-01-16 10:56:11,683  INFO [main] carSavaari:14 - insta is clicked is clicked in page insta is clicked
+2022-01-16 10:56:18,838  INFO [main] carSavaari:14 - result detail shown 

@@ -1,0 +1,23 @@
+2022-01-15 10:08:55,035  INFO [main] carSavaari:14 - URL Opened
+2022-01-15 10:08:56,547  INFO [main] carSavaari:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-15 10:08:57,687  INFO [main] carSavaari:14 - button is clicked in page button
+2022-01-15 10:08:58,691  INFO [main] carSavaari:14 - name is clicked in page id
+2022-01-15 10:08:59,535  INFO [main] carSavaari:14 - name is send in page id
+2022-01-15 10:09:00,308  INFO [main] carSavaari:14 - pass is clicked in page pwd
+2022-01-15 10:09:00,959  INFO [main] carSavaari:14 - pass is send in page pwd
+2022-01-15 10:09:01,723  INFO [main] carSavaari:14 - click is clicked in page login
+2022-01-15 10:09:02,453  INFO [main] carSavaari:14 - Successfully logged in
+2022-01-15 10:09:03,476  INFO [main] carSavaari:14 - from place is clicked in page from
+2022-01-15 10:09:04,266  INFO [main] carSavaari:14 - place is send in page from
+2022-01-15 10:09:05,160  INFO [main] carSavaari:14 - place is clicked in page to
+2022-01-15 10:09:05,998  INFO [main] carSavaari:14 - place is send in page to
+2022-01-15 10:09:06,615 ERROR [main] carSavaari:21 - place is not able clicked in page to
+2022-01-15 10:09:09,685  INFO [main] carSavaari:14 - round is clicked in page round
+2022-01-15 10:09:10,613  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-15 10:09:13,608  INFO [main] carSavaari:14 - select car is clicked in page select
+2022-01-15 10:09:14,698  INFO [main] carSavaari:14 - local is clicked in page local
+2022-01-15 10:09:15,735  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-15 10:09:18,050 ERROR [main] carSavaari:21 - time is not able clicked in page time
+2022-01-15 10:09:18,448 ERROR [main] carSavaari:21 - airport is not able clicked in page airport
+2022-01-15 10:09:18,781 ERROR [main] carSavaari:21 - playstore is not able clicked in page playstore
+2022-01-15 10:09:19,031 ERROR [main] carSavaari:21 - car rental is not able clicked in page rental

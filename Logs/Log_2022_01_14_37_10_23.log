@@ -1,0 +1,24 @@
+2022-01-14 22:37:35,560  INFO [main] carSavaari:14 - URL Opened
+2022-01-14 22:37:37,323  INFO [main] carSavaari:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-14 22:37:38,684  INFO [main] carSavaari:14 - button is clicked in page button
+2022-01-14 22:37:39,482  INFO [main] carSavaari:14 - name is clicked in page id
+2022-01-14 22:37:40,283  INFO [main] carSavaari:14 - name is send in page id
+2022-01-14 22:37:41,124  INFO [main] carSavaari:14 - pass is clicked in page pwd
+2022-01-14 22:37:41,745  INFO [main] carSavaari:14 - pass is send in page pwd
+2022-01-14 22:37:42,701  INFO [main] carSavaari:14 - click is clicked in page login
+2022-01-14 22:37:43,454  INFO [main] carSavaari:14 - Successfully logged in
+2022-01-14 22:37:44,483  INFO [main] carSavaari:14 - from place is clicked in page from
+2022-01-14 22:37:45,094 ERROR [main] carSavaari:21 - place can't send in page from
+2022-01-14 22:37:48,104  INFO [main] carSavaari:14 - round is clicked in page round
+2022-01-14 22:37:49,022  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-14 22:37:51,969  INFO [main] carSavaari:14 - select car is clicked in page select
+2022-01-14 22:37:53,033  INFO [main] carSavaari:14 - local is clicked in page local
+2022-01-14 22:37:53,985  INFO [main] carSavaari:14 - selected is clicked in page select
+2022-01-14 22:37:56,692 ERROR [main] carSavaari:21 - time is not able clicked in page time
+2022-01-14 22:37:57,867  INFO [main] carSavaari:14 - airport is clicked in page airport
+2022-01-14 22:37:59,222  INFO [main] carSavaari:14 - dropaddress is clicked in page address
+2022-01-14 22:37:59,903 ERROR [main] carSavaari:21 - dropaddress can't send in page address
+2022-01-14 22:38:00,986  INFO [main] carSavaari:14 - playstore is clicked in page playstore
+2022-01-14 22:38:06,401  INFO [main] carSavaari:14 - playsrore detail shown 
+2022-01-14 22:38:07,232  INFO [main] carSavaari:14 - home page is clicked in page home page
+2022-01-14 22:38:08,191  INFO [main] carSavaari:14 - car rental is clicked in page rental
